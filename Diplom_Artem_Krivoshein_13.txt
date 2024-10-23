@@ -2,6 +2,6 @@
 
 Задание 1: "https://github.com/Yandex-Practicum/qa-python-diplom/pull/232"
 
-Задание 2:
+Задание 2:"https://github.com/QAUroboros/Diplom_2/tree/develop2"
 
-Задание 3:
+Задание 3:"https://github.com/QAUroboros/Diplom_3/tree/develop3"
